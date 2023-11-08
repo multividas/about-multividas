@@ -1,0 +1,17 @@
+{
+  "name": "about-multividas",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "gridsome": "^0.7.0"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {}
+}
