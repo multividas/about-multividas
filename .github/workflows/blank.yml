@@ -32,5 +32,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build documentation
+      - name: Install gridsome globally
+        run: npm install --global @gridsome/cli
+
+      - name: Build static
         run: gridsome build
