@@ -32,8 +32,7 @@
         </div>
         <div class="card-body">
           <p>
-            Our mission is to build the app of everything, creating a diverse
-            and inclusive world for everyone to share short and long blog posts.
+            Our mission is to build the app of everything, creating a diverse and inclusive world for everyone to share threads posts.
           </p>
         </div>
       </div>
@@ -44,10 +43,7 @@
         </div>
         <div class="card-body">
           <p>
-            Explore the diverse world of Multividas.com, a social media and
-            blogging platform that empowers users to share their short texts and
-            posts. Our platform encourages engagement through comments and
-            replies within threaded posts.
+            Multividas.com is a social media and blogging platform where people can share their short texts and posts, leaving comments and have discussions on threads.
           </p>
         </div>
       </div>
