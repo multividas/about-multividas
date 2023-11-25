@@ -1,5 +1,5 @@
 <template>
-  <Main>
+  <MainLayout>
     <div class="container main-container">
       <div class="image-container">
         <div class="image-bg"></div>
@@ -9,11 +9,11 @@
           width="300"
           height="300"
           class="VPImage image-src"
-          @load="animateImage"
+          @load="animateImage()"
         />
       </div>
     </div>
-  </Main>
+  </MainLayout>
 </template>
 
 <script>

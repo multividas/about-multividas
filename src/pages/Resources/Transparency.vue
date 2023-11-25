@@ -1,12 +1,12 @@
 <template>
-  <Main>
+  <MainLayout>
     <header class="mv-header mv-header-bg px-3 px-sm-4">
       <h1 class="text-primary fw-bold">Transparency</h1>
       <p class="text-muted fw-bold my-2 lh-base">
         Multividas is committed to the open exchange of information.
       </p>
     </header>
-    <main class="container py-5">
+    <main class="container px-4 py-2 my-4 py-md-5 my-md-2">
       <div class="card mb-3">
         <div class="card-header">
           <h5 class="fw-bold text-primary">Multividas Transparency</h5>
@@ -29,7 +29,7 @@
         </div>
       </div>
     </main>
-  </Main>
+  </MainLayout>
 </template>
 
 <script>

@@ -1,12 +1,12 @@
 <template>
-  <Main>
+  <MainLayout>
     <header class="mv-header mv-header-bg px-3 px-sm-4">
       <h1 class="fw-bold text-primary">About Multividas</h1>
       <h4 class="fw-bold text-muted my-2">
         Share Your Threads Posts, Blog Your Articles
       </h4>
     </header>
-    <main class="container py-5">
+    <main class="container px-4 py-2 my-4 py-md-5 my-md-2">
       <div class="card mb-3">
         <div class="card-header">
           <h3 class="text-primary fw-bold">Who we are?</h3>
@@ -85,12 +85,12 @@
         </div>
         <div class="card-body">
           <p>
-            Privacy and security are our priority at Multividas.com, We'll provide more information and details over the upcoming weeks and months. 
+            Privacy and security are our priority at Multividas.com, We'll provide more information and details over the upcoming weeks and months.
           </p>
         </div>
       </div>
     </main>
-  </Main>
+  </MainLayout>
 </template>
 
 <script>

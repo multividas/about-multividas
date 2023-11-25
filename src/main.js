@@ -5,13 +5,13 @@ import FooterLayout from '~/layouts/Footer.vue'
 // Navbar
 import NavbarLayout from '~/layouts/Navbar.vue'
 
-export default function (Vue, { router, head, isClient }) {
-  // Set Navbar Navbar as a global component
-  Vue.component('Navbar', NavbarLayout)
-  // Set Footer Footer as a global component
-  Vue.component('Footer', FooterLayout)
+export default function (Vue, { head, isClient }) {
   // Set Main Main as a global component
-  Vue.component('Main', MainLayout)
+  Vue.component('MainLayout', MainLayout)
+  // Set Footer Footer as a global component
+  Vue.component('FooterLayout', FooterLayout)
+  // Set Navbar Navbar as a global component
+  Vue.component('NavbarLayout', NavbarLayout)
 
   if (isClient) {
     head.script.push({ src: require('bootstrap/dist/js/bootstrap.bundle.min.js').default, body: true })
@@ -53,7 +53,7 @@ export default function (Vue, { router, head, isClient }) {
     content: 'Multividas.com is a social media and blogging platform where people can share their short texts and posts, leaving comments and have discussions on threads.'
   }, {
     name: 'keywords',
-    content: 'multividas, multividas api documentation, multividas threads, multividas status, multividas help center, multividas developer, multvidas about us, multividas ads, multividas engineering blog, multividas developers documentation, multividas embed threads'
+    content: 'multividas, multividas api documentation, multividas threads, multividas status, multividas help center, multividas developer, multividas about us, multividas ads, multividas engineering blog, multividas developers documentation, multividas embed threads'
   }, {
     name: 'author',
     content: 'Soulaimane Yahya'
