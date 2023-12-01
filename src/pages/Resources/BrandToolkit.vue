@@ -40,7 +40,7 @@
             <div>
               <a
                 class="btn btn-sm btn-light border text-xxs fw-medium px-3 py-2 rounded-4"
-                href="https://about.multividas.com/assets/static/multividas-logo.zip"
+                href="https://raw.githubusercontent.com/multividas/about-multividas/main/src/assets/multividas-logo.zip"
                 target="_blank"
                 download
               >
