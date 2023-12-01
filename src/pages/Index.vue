@@ -5,7 +5,7 @@
         <div class="image-bg"></div>
         <g-image
           alt="multividas, multividas api documentation, multividas threads, multividas status, multividas help center, multividas developer, multividas about us, multividas ads, multividas engineering blog, multividas developers documentation, multividas embed threadsmultividas, multividas api documentation, multividas threads, multividas status, multividas help center, multividas developer, multividas about us, multividas ads, multividas engineering blog, multividas developers documentation, multividas embed threadsmultividas, multividas api documentation, multividas threads, multividas status, multividas help center, multividas developer, multividas about us, multividas ads, multividas engineering blog, multividas developers documentation, multividas embed threadsmultividas, multividas api documentation, multividas threads, multividas status, multividas help center, multividas developer, multividas about us, multividas ads, multividas engineering blog, multividas developers documentation, multividas"
-          src="~/assets/png/doc-logo.png"
+          src="~/assets/png/logo-shadow-multividas-blogging-platform-multividas-social-media-blog-multividas-posts-threads-multividas-comments-discussions-multividas-short-texts-multividas-social-blogging.png"
           width="300"
           height="300"
           class="VPImage image-src"
@@ -58,7 +58,7 @@ export default {
   width: 300px;
   height: 300px;
   border-radius: 50%;
-  background-image: url("https://developers.multividas.com/images/logo-with-shadow.png");
+  background-image: url("https://developers.multividas.com/images/logo-shadow-multividas-blogging-platform-multividas-social-media-blog-multividas-posts-threads-multividas-comments-discussions-multividas-short-texts-multividas-social-blogging.png");
   filter: blur(72px);
 }
 
