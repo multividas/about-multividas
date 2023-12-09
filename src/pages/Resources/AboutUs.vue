@@ -3,7 +3,7 @@
     <header class="mv-header mv-header-bg px-3 px-sm-4">
       <h1 class="fw-bold text-primary">About Multividas</h1>
       <h4 class="fw-bold text-muted my-2">
-        Share Your Threads Posts, Blog Your Articles
+        Share your Threads, Write and publish your Articles
       </h4>
     </header>
     <main class="container px-4 py-2 my-4 py-md-5 my-md-2">
