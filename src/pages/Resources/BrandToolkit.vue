@@ -59,7 +59,7 @@
             </p>
             <p>
               Typography font
-              <span class="fw-bold text-primary fs-5 mx-2">Multividas</span>
+              <span class="fw-bold text-primary fs-5 mx-2">RUBIK</span>
             </p>
           </div>
 
