@@ -40,7 +40,7 @@
 
       <div class="card mb-3">
         <div class="card-header">
-          <h3 class="text-primary fw-bold">Share Your Threads Posts</h3>
+          <h3 class="text-primary fw-bold">Share Your Threads</h3>
         </div>
         <div class="card-body">
           <p>
@@ -54,7 +54,7 @@
 
       <div class="card mb-3">
         <div class="card-header">
-          <h3 class="text-primary fw-bold">Blog Your Articles</h3>
+          <h3 class="text-primary fw-bold">Write and publish your Articles</h3>
         </div>
         <div class="card-body">
           <p>
