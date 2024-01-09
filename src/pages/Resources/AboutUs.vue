@@ -45,7 +45,7 @@
         <div class="card-body">
           <p>
             Explore the diverse world of Multividas.com, a social media and
-            blogging platform that empowers users to share their short texts and
+            blogging platform where you can share short texts and
             posts. Our platform encourages engagement through comments and
             replies within threaded posts.
           </p>
