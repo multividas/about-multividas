@@ -1,15 +1,20 @@
 {
-  "name": "about-multividas",
+  "name": "about-multividas.com",
+  "type": "module",
   "private": true,
   "version": "1.0.0",
-  "description": "With Multividas.com you can share short texts and posts, leaving comments and having discussions on threads.",
+  "description": "With Multividas.com you can share short texts and posts, leaving comments and have discussions on threads.",
   "keywords": [
-    "multividas",
-    "multividas blogs",
-    "multividas threads",
-    "multividas api documentation"
+      "multividas",
+      "multividas blogs",
+      "multividas threads"
   ],
-  "author": "soulaimane yahya <contact@soulaimaneyahya.com> (https://soulaimaneyahya.com/)",
+  "authors": [
+      {
+          "name": "soulaimaneyahya",
+          "email": "contact@soulaimaneyahya.com"
+      }
+  ],
   "license": "MIT",
   "scripts": {
     "develop": "gridsome develop",
@@ -21,7 +26,7 @@
     "gridsome": "^0.7.0"
   },
   "engines": {
-    "nvm": "16",
-    "node": "^16"
+    "nvm": "20",
+    "node": "^20"
   }
 }
