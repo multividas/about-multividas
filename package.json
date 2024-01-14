@@ -1,19 +1,18 @@
 {
   "name": "about-multividas.com",
-  "type": "module",
   "private": true,
   "version": "1.0.0",
   "description": "With Multividas.com you can share short texts and posts, leaving comments and have discussions on threads.",
   "keywords": [
-      "multividas",
-      "multividas blogs",
-      "multividas threads"
+    "multividas",
+    "multividas blogs",
+    "multividas threads"
   ],
   "authors": [
-      {
-          "name": "soulaimaneyahya",
-          "email": "contact@soulaimaneyahya.com"
-      }
+    {
+      "name": "soulaimaneyahya",
+      "email": "contact@soulaimaneyahya.com"
+    }
   ],
   "license": "MIT",
   "scripts": {
