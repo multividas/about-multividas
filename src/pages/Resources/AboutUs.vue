@@ -13,15 +13,14 @@
         </div>
         <div class="card-body">
           <p>
-            Multividas.com began in ceo-founder
+            <a href="https://multividas.com" target="_blank" class="fw-bold text-primary text-decoration-underline">Multividas.com</a> began in ceo-founder
             <a
               href="https://soulaimaneyahya.com/"
               target="_blank"
               class="fw-bold text-primary text-decoration-underline"
               >Soulaimane Yahya</a
             >
-            living room and neighborhood library in 2023 and will released
-            launched on July, 2024.
+            living room and neighborhood library in 2023.
           </p>
         </div>
       </div>
@@ -44,7 +43,7 @@
         </div>
         <div class="card-body">
           <p>
-            Explore the diverse world of Multividas.com, a social media and
+            Explore the diverse world of <a href="https://multividas.com" target="_blank" class="fw-bold text-primary text-decoration-underline">Multividas.com</a>, a social media and
             blogging platform where you can share short texts and
             posts. Our platform encourages engagement through comments and
             replies within threaded posts.
@@ -58,7 +57,7 @@
         </div>
         <div class="card-body">
           <p>
-            Multividas.com, your go-to social media and blogging platform. Here,
+            <a href="https://multividas.com" target="_blank" class="fw-bold text-primary text-decoration-underline">Multividas.com</a>, your go-to social media and blogging platform. Here,
             you can share your long texts and posts, providing readers with
             insightful content. Engage in meaningful discussions by leaving
             comments and participating in replies within depth articles.
@@ -79,13 +78,35 @@
         </div>
       </div>
 
+      <div class="card mb-3">
+        <div class="card-header">
+          <h3 class="text-primary fw-bold">Anonymous Threads</h3>
+        </div>
+        <div class="card-body">
+          <p>
+            You can share anonymous threads without displaying your name, profile image, or personal identities.
+          </p>
+        </div>
+      </div>
+
+      <div class="card mb-3">
+        <div class="card-header">
+          <h3 class="text-primary fw-bold">Anonymous Comments</h3>
+        </div>
+        <div class="card-body">
+          <p>
+            You can leave comments and having discussions on threads anonymously.
+          </p>
+        </div>
+      </div>
+
       <div class="card">
         <div class="card-header">
           <h3 class="text-primary fw-bold">Privacy and Secure Communication</h3>
         </div>
         <div class="card-body">
           <p>
-            Privacy and security are our priority at Multividas.com, We'll provide more information and details over the upcoming weeks and months.
+            Ensuring privacy and security are our top priorities at <a href="https://multividas.com" target="_blank" class="fw-bold text-primary text-decoration-underline">Multividas.com</a>
           </p>
         </div>
       </div>
