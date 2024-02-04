@@ -1,3 +1,5 @@
+// css
+import '~/assets/css/styles.css';
 // main
 import MainLayout from '~/layouts/Main.vue'
 // footer
@@ -92,6 +94,24 @@ export default function (Vue, { head, isClient }) {
     content: 'With Multividas.com you can share short texts and posts, leaving comments and having discussions on threads.'
   }, {
     name: 'twitter:image',
+    content: 'https://developers.multividas.com/images/logo.svg'
+  });
+
+  // Mutividas Card
+  head.meta.push({
+    name: 'multividas:card',
+    content: 'summary'
+  }, {
+    name: 'multividas:site',
+    content: '@multividascom'
+  }, {
+    name: 'multividas:title',
+    content: 'Multividas - Social Media and Blogging Platform'
+  }, {
+    name: 'multividas:description',
+    content: 'With Multividas.com you can share short texts and posts, leaving comments and having discussions on threads.'
+  }, {
+    name: 'multividas:image',
     content: 'https://developers.multividas.com/images/logo.svg'
   });
 }

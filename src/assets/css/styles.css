@@ -1,0 +1,31 @@
+/* svg */
+.s0 {
+  fill: #0f4b81
+}
+.s1 {
+  fill: url(#g1)
+}
+.s2 {
+  fill: url(#g2)
+}
+
+.svg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 80px auto;
+}
+
+.xlist {
+  list-style-type: disc;
+}
+
+.svg-container {
+  padding: 0 45px;
+}
+
+@media (min-width: 768px) {
+  .svg-container {
+    padding: 0;
+  }
+}
