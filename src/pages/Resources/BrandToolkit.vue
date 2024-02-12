@@ -70,8 +70,8 @@
               Guidelines — as well as our Terms of Service and all other
               Multividas rules and policies. If you have any questions, contact
               us at
-              <a href="mailto:contact@multividas.com"
-                ><code class="text-primary">contact@multividas.com</code></a
+              <a href="mailto:multividasdotcom@gmail.com"
+                ><code class="text-primary">multividasdotcom@gmail.com</code></a
               >
             </p>
             <ul class="xlist legal-notices mx-3">
