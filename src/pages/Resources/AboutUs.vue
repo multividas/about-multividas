@@ -102,7 +102,7 @@
           <h3 class="text-primary fw-bold">Privacy and Secure Communication</h3>
         </div>
         <div class="card-body">
-          <ul class="xlist mx-3">
+          <ul class="multividas-list mx-3">
             <li class="px-2 mb-3">All your personal informations, username, phone number, email, ... are encrypted</li>
             <li class="px-2 mb-3">All your private threads are encrypted</li>
             <li class="px-2 mb-3">All your anonymous threads are encrypted</li>

@@ -52,7 +52,7 @@ export default function (Vue, { head, isClient }) {
     content: 'Explore the diverse world of Multividas.'
   }, {
     name: 'description',
-    content: 'With Multividas.com you can share short texts and posts, leaving comments and having discussions on threads.'
+    content: 'With Multividas, you can share threads, publish articles and news.'
   }, {
     name: 'keywords',
     content: 'multividas, multividas api documentation, multividas threads, multividas status, multividas help center, multividas developer, multividas about us, multividas ads, multividas engineering blog, multividas developers documentation, multividas embed threads'
@@ -67,7 +67,7 @@ export default function (Vue, { head, isClient }) {
   // opengraph meta tags
   head.meta.push({
     property: 'og:description',
-    content: 'With Multividas.com you can share short texts and posts, leaving comments and having discussions on threads.'
+    content: 'With Multividas, you can share threads, publish articles and news.'
   }, {
     property: 'og:image',
     content: 'https://developers.multividas.com/images/logo.svg'
@@ -91,7 +91,7 @@ export default function (Vue, { head, isClient }) {
     content: 'Multividas - Social Media and Blogging Platform'
   }, {
     name: 'twitter:description',
-    content: 'With Multividas.com you can share short texts and posts, leaving comments and having discussions on threads.'
+    content: 'With Multividas, you can share threads, publish articles and news.'
   }, {
     name: 'twitter:image',
     content: 'https://developers.multividas.com/images/logo.svg'
@@ -109,7 +109,7 @@ export default function (Vue, { head, isClient }) {
     content: 'Multividas - Social Media and Blogging Platform'
   }, {
     name: 'multividas:description',
-    content: 'With Multividas.com you can share short texts and posts, leaving comments and having discussions on threads.'
+    content: 'With Multividas, you can share threads, publish articles and news.'
   }, {
     name: 'multividas:image',
     content: 'https://developers.multividas.com/images/logo.svg'

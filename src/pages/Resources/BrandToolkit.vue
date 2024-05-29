@@ -74,7 +74,7 @@
                 ><code class="text-primary">multividasdotcom@gmail.com</code></a
               >
             </p>
-            <ul class="xlist legal-notices mx-3">
+            <ul class="multividas-list legal-notices mx-3">
               <li class="px-2 mb-3">
                 Please don’t edit the logos when using them. Resizing is
                 permitted of course.
@@ -99,4 +99,4 @@ export default {
 };
 </script>
 
-<style></style>
+<style scoped></style>
